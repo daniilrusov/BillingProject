@@ -1,0 +1,19 @@
+{
+    "models": [
+      {
+        "name": "Random Forest",
+        "path": "models/clf.pkl",
+        "price": 10
+      },
+      {
+        "name": "XGBoost",
+        "path": "models/bst.pkl",
+        "price": 20
+      },
+      {
+        "name": "CatBoost",
+        "path": "models/clf.pkl",
+        "price": 30
+      }
+    ]
+  }
